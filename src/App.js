@@ -1,12 +1,13 @@
 import "./App.css";
 
+import Header from "./components/Header";
+import Summary from "./components/Summary";
+
 function App() {
   return (
     <>
-      <h1>
-        Hello, I am Hari Krishna Vinjam. I am going to build my portfolio here
-        using reactjs
-      </h1>
+      <Header />
+      <Summary />
     </>
   );
 }
