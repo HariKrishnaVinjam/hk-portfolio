@@ -8,6 +8,11 @@ function App() {
     <>
       <Header />
       <Summary />
+
+      <h2 style={{ alignItems: "center", justifyContent: "center" }}>
+        {" "}
+        Portfolio still under construction...
+      </h2>
     </>
   );
 }
