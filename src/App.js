@@ -1,6 +1,7 @@
 import "./App.css";
 
 import Header from "./components/Header";
+import Projects from "./components/Projects";
 import Summary from "./components/Summary";
 
 function App() {
@@ -8,11 +9,7 @@ function App() {
     <>
       <Header />
       <Summary />
-
-      <h2 style={{ alignItems: "center", justifyContent: "center" }}>
-        {" "}
-        Portfolio still under construction...
-      </h2>
+      <Projects />
     </>
   );
 }

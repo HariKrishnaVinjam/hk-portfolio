@@ -6,12 +6,15 @@ function Summary() {
       <div className="summary-container">
         <div className="left-section">
           <p class="summary-content">
-            <h1 className="summary-title">Summary:</h1>I am a passionate
+            <h1 className="summary-title">Summary</h1>I am a passionate
             developer with expertise in creating robust and efficient web
             applications. My technical skills include proficiency in{" "}
             <span className="skills">JavaScript (ES6+)</span>,{" "}
             <span className="skills">React.js</span>,{" "}
-            <span className="skills">Node.js</span>, and various frontend and
+            <span className="skills">Node.js</span>,{" "}
+            <span className="skills">Java</span>,{" "}
+            <span className="skills">Python</span>,{" "}
+            <span className="skills">Spring Boot</span>and various frontend and
             backend technologies. I have experience in developing dynamic user
             interfaces, implementing{" "}
             <span className="skills">RESTful APIs</span>, and managing state
